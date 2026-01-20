@@ -38,18 +38,14 @@ const About = () => {
             className="prose prose-invert max-w-none mb-12"
           >
             <p className="text-lg text-gray-300 leading-relaxed mb-6">
-              Sou Tecnólogo em Análise e Desenvolvimento de Sistemas e estudante de Ciência da Computação. 
-              Minha atuação vai além do código: combino a lógica robusta do desenvolvimento Full Stack 
-              (React, Node.js) com a sensibilidade estética do UI/UX Design.
+              Possuo formação como Tecnólogo em Análise e Desenvolvimento de Sistemas e atualmente sou aluno de Ciência da Computação. Minha atuação transcende o código: mesclo a lógica sólida do desenvolvimento Full Stack (React, Node.js) com a sensibilidade estética do design UI/UX.
             </p>
             <p className="text-lg text-gray-300 leading-relaxed mb-6">
-              Com experiência prévia como instrutor de tecnologia, trago para meus projetos não apenas técnica, 
-              mas também uma preocupação real com a usabilidade. Busco sempre a união entre código limpo 
-              e interfaces visualmente refinadas.
+              Com experiência anterior como instrutor de tecnologia, trago para meus projetos não só habilidades técnicas, mas também um compromisso genuíno com a usabilidade. Sempre busco a combinação de código limpo e interfaces visualmente atraentes.
+
             </p>
             <p className="text-lg text-gray-300 leading-relaxed">
-              Meu objetivo é transformar requisitos complexos em software funcional, garantindo que a aplicação 
-              seja escalável no back-end e intuitiva para quem a utiliza no front-end.
+              Meu objetivo é converter requisitos complexos em um software funcional, assegurando que a aplicação seja escalável no back-end e de fácil utilização no front-end..
             </p>
           </motion.div>
 
